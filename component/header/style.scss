@@ -1,0 +1,25 @@
+header {
+  display: block;
+  margin: 0 auto;
+  padding: 0 10px;
+  height: 100px;
+  background-color: #f7f7f7;
+  .wrap {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    max-width: 980px;
+    .logo {
+      display: block;
+      position: absolute;
+      width: 250px;
+      left: 10px;
+      top: 50%;
+      img {
+        display: block;
+        width: 100%;
+        margin: 0;
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.child {
+  background: #f7f7;
+  height: 100px;
+  width: 100px;
+  margin: auto;
+}
+
+.parent {
+  margin: 0 auto;
+  background: rgb(167, 162, 163);
+  height: 300px;
+  width: 300px;
+}
